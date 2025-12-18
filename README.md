@@ -42,7 +42,7 @@ Con esta API pueden:
 ✔ Ejemplos reales de uso  
 
 ---
-## 🚀 Equipo
+##  Equipo
 
 ##  Equipo de trabajo
 
