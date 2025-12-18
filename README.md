@@ -1,4 +1,4 @@
-# Sentiment Analysis API – NoCountry Hackathon
+# SentimentAPI — Análisis de Sentimientos – NoCountry Hackathon
 
 ## 📌 Sector de negocio
 Atención al cliente, Marketing y Operaciones.  
