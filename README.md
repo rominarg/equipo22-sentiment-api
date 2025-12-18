@@ -7,13 +7,12 @@ Empresas que reciben grandes volúmenes de comentarios, reseñas o mensajes y ne
 ---
 
 ##  Descripción del proyecto
-Este proyecto implementa una **API REST** que recibe textos (comentarios, reseñas o tweets) y devuelve automáticamente el **sentimiento asociado**:
-
+Este proyecto implementa un **MVP** mediante una **API REST** que procesa **feedbacks de clientes** (comentarios, reseñas o tweets) y devuelve automáticamente el **sentimiento asociado**:  
 - Positivo
 - Neutro
 - Negativo  
 
-La solución combina **Data Science + Back-End**, permitiendo que otras aplicaciones consuman la predicción mediante JSON.
+La solución combina **Data Science + Back-End**, permitiendo que otras aplicaciones consuman estas predicciones mediante un **JSON** para agilizar la toma de decisiones."
 
 ---
 
