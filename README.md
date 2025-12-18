@@ -38,6 +38,29 @@ Con esta API pueden:
 
 ---
 
+Endpoint principal
+POST /sentiment
+Request
+
+json
+{
+  "text": "El servicio fue excelente"
+}
+Response
+
+json
+{
+  "prevision": "Positivo",
+  "probabilidad": 0.91
+}
+Cómo ejecutar el proyecto (resumen)
+Ejecutar el notebook para entrenar el modelo
+Levantar el microservicio de Data Science (FastAPI)
+Levantar la API Back-End (Spring Boot)
+Probar el endpoint /sentiment con Postman o cURL
+
+---
+
 ##  Equipo de trabajo
 
 ###  Data Scientists
