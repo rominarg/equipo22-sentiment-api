@@ -12,7 +12,6 @@ Este proyecto implementa una **API REST** que recibe textos (comentarios, reseñ
 - Positivo
 - Neutro
 - Negativo  
-*(o versión binaria Positivo / Negativo)*
 
 La solución combina **Data Science + Back-End**, permitiendo que otras aplicaciones consuman la predicción mediante JSON.
 
