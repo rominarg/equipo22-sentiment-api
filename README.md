@@ -1,6 +1,7 @@
 
 
-<img width="722" height="134" alt="portada_equipo22" src="https://github.com/user-attachments/assets/dfca9f5b-e9cb-4d2c-a60b-bb9ce5e75ed5" />
+<img width="615" height="70" alt="portada_" src="https://github.com/user-attachments/assets/350ca201-6ac4-410e-8708-95dba6220bb5" />
+
 
 # SentimentAPI — NoCountry Hackathon
 
