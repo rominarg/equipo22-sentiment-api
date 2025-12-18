@@ -1,3 +1,7 @@
+
+
+<img width="722" height="134" alt="portada_equipo22" src="https://github.com/user-attachments/assets/dfca9f5b-e9cb-4d2c-a60b-bb9ce5e75ed5" />
+
 # SentimentAPI — NoCountry Hackathon
 
 ## 📌 Sector de negocio
