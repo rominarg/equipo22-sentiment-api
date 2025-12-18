@@ -7,7 +7,7 @@ Empresas que reciben grandes volúmenes de comentarios, reseñas o mensajes y ne
 ---
 
 ##  Descripción del proyecto
-Este proyecto implementa un **MVP** mediante una **API REST** que procesa **feedbacks de clientes** (comentarios, reseñas o tweets) y devuelve automáticamente el **sentimiento asociado**:  
+Este proyecto implementa un **MVP** mediante una **API REST** que procesa **feedbacks de clientes** (comentarios, reseñas o tweets) para devolver automáticamente el **sentimiento asociado**:  
 - Positivo
 - Neutro
 - Negativo  
