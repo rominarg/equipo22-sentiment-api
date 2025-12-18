@@ -47,7 +47,9 @@ Con esta API pueden:
 - Sebastian Caques  
 - Sara Cantú  
 - Jose Arturo Gomez  
+- Romina Gabriela Navarrete 
 - Eduardo Enrique Sánchez Peña  
+
 
 ### ⚙️ Data Engineer
 - Stivenson Mussa Rodriguez  
