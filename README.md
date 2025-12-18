@@ -1,6 +1,3 @@
-
-
-
 <img width="1064" height="70" alt="portada_e22" src="https://github.com/user-attachments/assets/27ed8b3b-d227-4b4b-bfef-a44956696494" />
 
 ##  Sector de negocio
@@ -42,7 +39,6 @@ Con esta API pueden:
 ✔ Ejemplos reales de uso  
 
 ---
-##  Equipo
 
 ##  Equipo de trabajo
 
@@ -52,7 +48,6 @@ Con esta API pueden:
 - Jose Arturo Gomez  
 - Romina Gabriela Navarrete 
 - Eduardo Enrique Sánchez Peña  
-
 
 ###  Data Engineer
 - Stivenson Mussa Rodriguez  
