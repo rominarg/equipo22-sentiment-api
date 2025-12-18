@@ -38,15 +38,16 @@ Con esta API pueden:
 
 ---
 
-Endpoint principal
-POST /sentiment
-Request
+## Endpoint principal
+# POST /sentiment
+# Request
 
 json
 {
   "text": "El servicio fue excelente"
 }
-Response
+
+# Response
 
 json
 {
