@@ -1,0 +1,32 @@
+body { 
+    background-color: #f4f6f8; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.table-hover tbody tr:hover { 
+    background-color: #f1f3f5; 
+}
+
+.badge-pos { 
+    background-color: #d1e7dd; 
+    color: #0f5132; 
+    border: 1px solid #badbcc; 
+}
+.badge-neg { 
+    background-color: #f8d7da; 
+    color: #842029; 
+    border: 1px solid #f5c2c7; 
+}
+.badge-neu { 
+    background-color: #e2e3e5; 
+    color: #41464b; 
+    border: 1px solid #d3d6d8; 
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.border-dashed {
+    border-style: dashed !important;
+}
