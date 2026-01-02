@@ -3,30 +3,120 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 
-.table-hover tbody tr:hover { 
-    background-color: #f1f3f5; 
+/* Navbar Negro */
+.navbar-custom {
+    background-color: #000000 !important;
 }
 
-.badge-pos { 
-    background-color: #d1e7dd; 
-    color: #0f5132; 
-    border: 1px solid #badbcc; 
-}
-.badge-neg { 
-    background-color: #f8d7da; 
-    color: #842029; 
-    border: 1px solid #f5c2c7; 
-}
-.badge-neu { 
-    background-color: #e2e3e5; 
-    color: #41464b; 
-    border: 1px solid #d3d6d8; 
+/* Tarjeta Principal */
+.card-custom { 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08); 
+    border: none; 
+    border-radius: 16px; 
 }
 
-.card {
+/* Zona de Carga (Drag & Drop look) */
+.upload-zone {
+    border: 2px dashed #dee2e6;
+    background-color: #fafbfc;
+    transition: all 0.3s ease;
+}
+.upload-zone:hover {
+    border-color: #adb5bd;
+    background-color: #f1f3f5;
+}
+
+/* Tabla Personalizada */
+.custom-table th {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+}
+.custom-table td {
+    font-size: 0.95rem;
+}
+
+/* Estilos para badges de sentimiento */
+.badge-status {
+    padding: 6px 12px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.badge-pos {
+    background-color: #d1e7dd;
+    color: #0f5132;
+}
+.badge-neg {
+    background-color: #f8d7da;
+    color: #842029;
+}
+.badge-neu {
+    background-color: #e2e3e5;
+    color: #41464b;
+}
+
+/* Tarjetas de Estadísticas */
+.stat-card {
     transition: transform 0.2s;
 }
+.stat-card:hover {
+    transform: translateY(-2px);
+}
 
-.border-dashed {
-    border-style: dashed !important;
+/* Configuración General */
+body { 
+    background-color: #f4f6f8; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+/* Navbar Negro */
+.navbar-custom {
+    background-color: #000000 !important; 
+}
+
+.card-custom { 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08); 
+    border: none; 
+    border-radius: 16px; 
+}
+
+/* Estilos de las pestañas (Tabs) */
+.nav-pills .nav-link.active {
+    background-color: #000; 
+}
+.nav-pills .nav-link {
+    color: #555;
+    font-weight: 600;
+}
+
+/* Área de Gráficos */
+.chart-container {
+    position: relative;
+    height: 250px;
+    width: 100%;
+}
+
+/* Lista de items */
+.history-item { transition: all 0.3s ease; border-left: 5px solid #ccc; }
+.history-item.positivo { border-left-color: #198754; background-color: #f1fcf5; }
+.history-item.negativo { border-left-color: #dc3545; background-color: #fcf1f1; }
+.history-item.neutro { border-left-color: #6c757d; background-color: #f8f9fa; }
+
+/* Ajuste para el menú desplegable de idiomas */
+.dropdown-menu {
+    border: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    margin-top: 10px; 
+}
+
+.dropdown-item {
+    padding: 8px 16px;
+    font-weight: 500;
+}
+
+.dropdown-item:active {
+    background-color: #000;
 }
