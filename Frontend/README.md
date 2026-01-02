@@ -76,7 +76,6 @@ El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Espa
 ---
 
 ### 2. Dashboard de Resultados
-[![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Dashboard_Resultados-2EA44F?style=for-the-badge&logo=chart-js&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/dashboard.html)
+[![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/report.html)
 
-<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/16f722df-429f-4990-8e38-ab188d36a16f" />
-
+<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/7ecc639f-e334-4eae-a54a-9b2dd2249178" />
