@@ -1,7 +1,3 @@
-# SentimentAPI Analytics - UI Proposal
-
-Este repositorio contiene la propuesta de diseño frontend para **SentimentAPI Analytics**, una plataforma web dedicada al procesamiento masivo de Análisis de Sentimientos de Feedbacks.
-
 **SentimentAPI** es una solución integral de Data Science y Backend diseñada para automatizar el análisis de feedback de clientes. Permite a las empresas procesar grandes volúmenes de reseñas y comentarios para identificar rápidamente la satisfacción del usuario, priorizar la atención de quejas y monitorear la reputación de marca.
 
 El proyecto se centra en ofrecer una experiencia de usuario (UX) fluida para la carga de datasets (.csv) y la visualización clara de resultados predictivos.
@@ -36,7 +32,7 @@ En un entorno donde las empresas reciben miles de comentarios diarios, la lectur
 * **Insights accionables:** Transforma texto no estructurado en métricas medibles.
 * **Visión histórica:** Permite medir la evolución de la satisfacción del cliente.
 
-## 🛠️ Arquitectura Técnica
+##  Arquitectura Técnica
 
 El proyecto demuestra la integración funcional entre un modelo de Machine Learning y una API robusta.
 
@@ -52,7 +48,7 @@ Utilizamos técnicas clásicas de **Procesamiento de Lenguaje Natural (NLP)** su
 * **Integración:** Carga y ejecución del modelo predictivo para inferencia en tiempo real.
 * **Validación:** Manejo de errores y respuestas JSON estandarizadas.
 
-### 🎨 Front-End (Dashboard MVP)
+###  Front-End (Dashboard MVP)
 * **Interfaz Web:** Panel para carga masiva de datos (Batch Processing) vía CSV.
 * **Visualización:** Gráficos interactivos con **Chart.js** para distribución de sentimientos.
 * **Bootstrap 5:** Diseño responsivo y profesional.
@@ -67,14 +63,21 @@ Endpoint para clasificar un comentario individual.
 ### 2. Batch Processing (Procesamiento por Lotes)
 Capacidad de subir un archivo `.csv` con múltiples comentarios y recibir un reporte estadístico completo y visualizaciones en el Dashboard.
 
-### 3. Soporte Multilingüe 🌍
+### 3. Soporte Multilingüe 
 El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Español** como en **Portugués**, permitiendo escalabilidad regional.
 
-## 📷 Vista Previa  
 
-<img width="1920" height="1040" alt="00001_" src="https://github.com/user-attachments/assets/0a50e368-bf10-4842-a586-bc3b1b50152b" />
-https://rominarg.github.io/DemoSentimentAPI/index.html
-<img width="1920" height="1747" alt="00002_" src="https://github.com/user-attachments/assets/16f722df-429f-4990-8e38-ab188d36a16f" />
-https://rominarg.github.io/DemoSentimentAPI/report
-<img width="1771" height="258" alt="image" src="https://github.com/user-attachments/assets/0255f874-a569-4816-a612-5a8944bbccd0" />
+##  Vista Previa y Demo
+
+### 1. Carga de Archivos (Landing Page)
+[![Ver Demo Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/index.html)
+
+<img width="100%" alt="Vista Carga" src="https://github.com/user-attachments/assets/0a50e368-bf10-4842-a586-bc3b1b50152b" />
+
+---
+
+### 2. Dashboard de Resultados
+[![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Dashboard_Resultados-2EA44F?style=for-the-badge&logo=chart-js&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/dashboard.html)
+
+<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/
 
