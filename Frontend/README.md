@@ -66,7 +66,6 @@ Capacidad de subir un archivo `.csv` con múltiples comentarios y recibir un rep
 ### 3. Soporte Multilingüe 
 El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Español** como en **Portugués**, permitiendo escalabilidad regional.
 
-
 ##  Vista Previa y Demo
 
 ### 1. Carga de Archivos (Landing Page)
@@ -79,5 +78,5 @@ El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Espa
 ### 2. Dashboard de Resultados
 [![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Dashboard_Resultados-2EA44F?style=for-the-badge&logo=chart-js&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/dashboard.html)
 
-<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/
+<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/16f722df-429f-4990-8e38-ab188d36a16f" />
 
